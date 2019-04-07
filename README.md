@@ -18,7 +18,7 @@ and run:
 
 ### `npm start`
 
-Go to localhost 3000 and run the app in development mode <br>
+Then open http://localhost:3000 to view it in the browser in development mode <br>
 
 ### `npm test`
 
