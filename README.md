@@ -4,6 +4,7 @@
 ![pic2](https://user-images.githubusercontent.com/32945767/55677837-10b9be80-58a4-11e9-8762-37049d2a481e.jpg)
 ![pic3](https://user-images.githubusercontent.com/32945767/55677838-10b9be80-58a4-11e9-8b80-663e827cab84.jpg)
 
+*There is an error to be fixed in cart.js*
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
