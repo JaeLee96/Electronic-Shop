@@ -2,8 +2,10 @@
 
 ![pic1](https://user-images.githubusercontent.com/32945767/55677836-10b9be80-58a4-11e9-8ae9-a9844e2971af.jpg)
 
-An user interface where users can view the products, their descriptions, price, models, and then add them to their shopping carts.
-Created in HTML5, CSS3, React.js
+As a frequent user of online exchange and shopping websites such as OfferUp, Craiglist, and Amazon, I decided to make my own 
+*almost* fully functional E-Commercie personal website in HTML5, CSS3, React.js
+
+I've implemented an user interface where users can view the products, their descriptions, price, models, and then add them to their shopping carts.
 
 ![pic2](https://user-images.githubusercontent.com/32945767/55677837-10b9be80-58a4-11e9-8762-37049d2a481e.jpg)
 
